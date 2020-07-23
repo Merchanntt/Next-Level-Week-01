@@ -8,6 +8,15 @@ export const Container = styled.div`
   flex-direction: column;
 `;
 
+export const Animation = styled.div`
+  display: flex;
+  flex: 1;
+  width: 600;
+  height: 600;
+  justify-content: center;
+  align-items: center;
+`
+
 export const Description = styled.h2`
   font-size: 32px;
   color: #322153;
