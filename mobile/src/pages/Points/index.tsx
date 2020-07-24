@@ -38,7 +38,9 @@ const Points = () => {
   const navigation = useNavigation()
   const routes = useRoute()
 
-  const { uf, city} = routes.params as RouteParams
+  const { uf, city } = routes.params as RouteParams
+
+  console.log(uf, city)
 
   useEffect(() => {
     api.get('items').then(response => {
@@ -93,7 +95,7 @@ const Points = () => {
     } else {
       setSelectedItems([...selectedItems, id])
     }
-  }, [])
+  }, [selectedItems])
 
   return (
     <>
