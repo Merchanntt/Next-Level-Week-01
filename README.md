@@ -19,6 +19,8 @@ Builded in React, React-Native, expo, node and Typescript, this application prov
 
 Register a collect point, with the picture, whatsapp number and email to contact, and which items are possible to handle it.
 
+<div align="center">
+
 ## Mobile
   
 ![](https://media.giphy.com/media/ohzsgkKEm2BYUkeGAN/giphy.gif)
@@ -27,6 +29,8 @@ Register a collect point, with the picture, whatsapp number and email to contact
 ## Web
 
 ![](https://media.giphy.com/media/EVknibfJQL6nUYUdUr/giphy.gif)
+
+</div>
 
 ## Getting_Started
 To use this app, you'll need...
