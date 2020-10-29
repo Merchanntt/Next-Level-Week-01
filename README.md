@@ -5,12 +5,10 @@
 [Web](#Web) |
 [Getting Started](#Getting_Started)
 
-<img src='./frontend/src/assets/logo.svg'/>
+## <img src='./frontend/src/assets/logo.svg'/>
 
 ![node-current](https://img.shields.io/node/v/package)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Merchanntt/Ecoleta)
-
-##
 
 Builded in React, React-Native, expo, node and Typescript, this application provides alternatives from a sustainable waste collection.
 
