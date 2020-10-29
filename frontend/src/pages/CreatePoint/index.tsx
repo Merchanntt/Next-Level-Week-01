@@ -148,8 +148,6 @@ const CreatePoint = () => {
 
     await api.post('points', CreatePoint)
 
-    alert('Ponto de Coleta cadastrado!')
-
     history.push('/success')
 
   }, [formData, selectedLocal, selectedUf, selectedCity, selectedItems, selectedFile, history])

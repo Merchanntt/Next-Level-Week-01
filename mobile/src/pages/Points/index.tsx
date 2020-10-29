@@ -40,8 +40,6 @@ const Points = () => {
 
   const { uf, city } = routes.params as RouteParams
 
-  console.log(uf, city)
-
   useEffect(() => {
     api.get('items').then(response => {
       setItems(response.data)

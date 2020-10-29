@@ -1,7 +1,8 @@
 #page-home {
   height: 100vh;
 
-  background: url('../../assets/home-background.svg') no-repeat 600px bottom;
+  background: url('../../assets/home-background.svg') no-repeat 600px;
+  background-position: 500px 85px;
 }
 
 #page-home .content {
@@ -10,6 +11,7 @@
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 30px;
+
 
   display: flex;
   flex-direction: column;
